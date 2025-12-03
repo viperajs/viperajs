@@ -26,7 +26,7 @@ Real-world websites I developed:
 
 ## 💬 Let's Connect!
 
-- 🐙 Twiter: https://x.com/e_balakchiev
+- 🐙 Twitter: https://x.com/e_balakchiev
 - 🌍 Location: Bulgaria 🇧🇬  
 
 ---
