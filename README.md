@@ -26,7 +26,7 @@ Real-world websites I developed:
 
 ## 💬 Let's Connect!
 
-- 🐙 GitHub: https://github.com/viperajs  
+- 🐙 Twiter: https://x.com/e_balakchiev
 - 🌍 Location: Bulgaria 🇧🇬  
 
 ---
