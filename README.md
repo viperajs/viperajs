@@ -31,7 +31,7 @@ Real-world websites I developed:
 
 ---
 
-## ⚔️ About Me — Samurai Mindset
+## ⚔️ About Me 
 
 > *"The warrior never stops sharpening his blade —  
 > every day is a chance to become stronger than yesterday."*
