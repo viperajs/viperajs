@@ -19,7 +19,7 @@ Real-world websites I developed:
 - 🔹 **BGOil.bg** – Fuel station locator and corporate site  
   🌍 https://bgoil.bg/
 
-- 🔹 **Avera EOOD** – Wood materials supplier in Bulgaria  
+- 🔹 **Avera EOOD** – Wood materials in Bulgaria  
   🪵 https://www.averaeood.bg/
 
 ---
