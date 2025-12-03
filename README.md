@@ -1,16 +1,46 @@
-## Hi there 👋
+# 🐍 Hello, I'm Ediz (Vipera)
 
-<!--
-**viperajs/viperajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Frontend Developer  
+I enjoy transforming ideas into fast, modern and user-friendly digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Languages / Tools:** JavaScript, TypeScript, JSX  
+**Frameworks / Libraries:** React (JSX), TailwindCSS  
+
+---
+
+## 🚀 Live Projects
+
+Real-world websites I developed:
+
+- 🔹 **BGOil.bg** – Fuel station locator and corporate site  
+  🌍 https://bgoil.bg/
+
+- 🔹 **Avera EOOD** – Wood materials supplier in Bulgaria  
+  🪵 https://www.averaeood.bg/
+
+---
+
+## 💬 Let's Connect!
+
+- 🐙 GitHub: https://github.com/viperajs  
+- 🌍 Location: Bulgaria 🇧🇬  
+
+---
+
+## ⚔️ About Me — Samurai Mindset
+
+> *"The warrior never stops sharpening his blade —  
+> every day is a chance to become stronger than yesterday."*
+
+I believe in constant improvement.  
+Programming is my path, discipline is my weapon,  
+and every project is another battle I aim to win.
+
+---
+
+Thanks for visiting my profile!  
+Stay focused. Stay motivated. Stay dangerous. 🗡️🔥
