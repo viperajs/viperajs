@@ -1,4 +1,4 @@
-# 🐍 Hello, I'm Ediz (Vipera)
+# 🐍 Hello, I'm Vipera
 
 ## 🎯 Frontend Developer  
 I enjoy transforming ideas into fast, modern and user-friendly digital experiences.
