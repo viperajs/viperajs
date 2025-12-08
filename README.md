@@ -16,10 +16,10 @@ I enjoy transforming ideas into fast, modern and user-friendly digital experienc
 
 Real-world websites I developed:
 
-- 🔹 **BGOil.bg** – Fuel station locator and corporate site  
+- 🔹 **BGOil.bg** 
   🌍 https://bgoil.bg/
 
-- 🔹 **Avera EOOD** – Wood materials in Bulgaria  
+- 🔹 **Avera EOOD**
   🪵 https://www.averaeood.bg/
 
 ---
