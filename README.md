@@ -7,7 +7,7 @@ I enjoy transforming ideas into fast, modern and user-friendly digital experienc
 
 ## 💻 Tech Stack
 
-**Languages / Tools:** JavaScript, TypeScript, JSX  
+**Languages / Tools:** JavaScript, TypeScript 
 **Frameworks / Libraries:** React (JSX), TailwindCSS  
 
 ---
