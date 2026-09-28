@@ -21,8 +21,8 @@ I'm a high school student and a self-taught developer. I learn by building real 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://rpforge.co">RPForge</a></h3>
-      <p>An AI tool for FiveM/GTA roleplay server developers. React front-end on Vercel, FastAPI and PostgreSQL back-end on Render, prepaid credits with Stripe and the Claude API for code and content generation.</p>
-      <p><img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"> <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Stripe-161B22?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe"> <img src="https://img.shields.io/badge/Claude%20API-161B22?style=flat-square&logo=claude&logoColor=D97757" alt="Claude API"></p>
+      <p>An AI tool for FiveM/GTA roleplay server developers. React front-end on Vercel, FastAPI and PostgreSQL back-end on Render and prepaid credits with Stripe.</p>
+      <p><img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"> <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Stripe-161B22?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe"></p>
     </td>
     <td width="50%" valign="top">
       <h3>VIPERNET</h3>
